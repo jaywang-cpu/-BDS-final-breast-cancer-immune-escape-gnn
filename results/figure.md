@@ -6,7 +6,7 @@
 ---
 
 ## 🔍 Figure 1: 肿瘤免疫逃逸数据全景分析
-**![数据探索图]((https://github.com/jaywang-cpu/-BDS-final-breast-cancer-immune-escape-gnn/blob/main/results/Comprehensive%20Tumor%20Immune%20Escape%20Data%20Analysis.png))**
+**![全景图]((https://github.com/jaywang-cpu/-BDS-final-breast-cancer-immune-escape-gnn/blob/main/results/Comprehensive%20Tumor%20Immune%20Escape%20Data%20Analysis.png))**
 
 ### 分析目的
 对乳腺癌患者的免疫相关基因表达数据进行全面的探索性分析，为后续建模提供数据基础。
