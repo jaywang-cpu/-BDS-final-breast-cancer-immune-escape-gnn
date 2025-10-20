@@ -9,7 +9,7 @@
 - **Database**: GSE176078 (GEO Database)
 - **Cancer Type**: Breast Cancer
 - **Data Type**: Bulk RNA-seq gene expression data
-- **Sample Size**: 30 breast cancer patient samples
+- **Sample Size**: 24 breast cancer patient samples
 
 ## *Data Details*
 ### expression_data.txt
