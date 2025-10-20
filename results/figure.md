@@ -1,4 +1,4 @@
-# 📊 Figure Documentation: PDCD1 Expression Prediction System
+# Figure Documentation: PDCD1 Expression Prediction System
 
 ## Project Overview
 This documentation presents a comprehensive analysis workflow and results of a PDCD1 expression prediction system based on PD-1/PD-L1 immune checkpoint pathway-related genes.
@@ -148,6 +148,6 @@ High-expression patients represent optimal candidates for PD-1/PD-L1 targeted th
 
 ---
 
-*⚠️ **Important Disclaimer**: This system is developed based on a small dataset (n=24) and is intended for research use only. It should NOT be used for clinical diagnostic decision-making without proper validation on larger, independent patient cohorts. Clinical implementation requires regulatory approval and extensive validation studies.*
+* **Important Disclaimer**: This system is developed based on a small dataset (n=24) and is intended for research use only. It should NOT be used for clinical diagnostic decision-making without proper validation on larger, independent patient cohorts. Clinical implementation requires regulatory approval and extensive validation studies.*
 
-*🔬 **Research Ethics**: All analyses comply with institutional review board guidelines and patient privacy regulations.*
+* **Research Ethics**: All analyses comply with institutional review board guidelines and patient privacy regulations.*
