@@ -23,7 +23,7 @@ The correlation matrix reveals coordinated immune gene expression, supporting th
 ---
 
 ## 🧬 Figure 2: Immune Checkpoint Gene Expression Prediction Tool
-![Prediction Interface]（https://github.com/jaywang-cpu/-BDS-final-breast-cancer-immune-escape-gnn/blob/main/results/Immune%20Checkpoint%20Gene%20Expression%20Predictor.jpg）
+![Prediction Interface](https://raw.githubusercontent.com/jaywang-cpu/-BDS-final-breast-cancer-immune-escape-gnn/main/results/Immune%20Checkpoint%20Gene%20Expression%20Predictor.jpg)
 
 ### System Functionality
 Interactive machine learning-based PDCD1 expression prediction system integrating 5 key immune genes for comprehensive assessment.
